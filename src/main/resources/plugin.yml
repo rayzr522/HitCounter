@@ -1,0 +1,12 @@
+main: me.rayzr522.hitcounter.HitCounter
+
+name: ${project.name}
+description: ${project.description}
+version: ${project.version}
+author: Rayzr
+
+commands:
+  hitcounter:
+    description: The main command for HitCounter.
+    # aliases: []
+    usage: "\u00A7cRayzr hecc'd something up."
